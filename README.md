@@ -32,8 +32,9 @@ Created basic enemy prefab
 Implemented movement logic to follow waypoints
 
 
-=========================================================================================
+
 Development Progress - June 20, 2025
+
 
 Implemented enemy path management: Enemies now follow designated waypoints and are automatically destroyed at the end of the path.
 
