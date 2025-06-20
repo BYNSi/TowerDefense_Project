@@ -42,3 +42,15 @@ Added four enemy types with different prefabs and properties.
 
 Developed an enemy spawner to control automatic enemy generation in waves, with customizable settings for each wave.
 
+
+Development Progress– June 21, 2025
+=======================================
+Created Prefabs for the standard turret and its upgraded version.
+
+Made Prefabs for the missile turret and laser turret.
+
+Designed the turret selection UI.
+
+Learned about Unity game development resources.
+
+Created the data class for turrets and set up the turret data.
