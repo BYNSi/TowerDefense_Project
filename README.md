@@ -30,6 +30,8 @@ Enemy Creation and Movement
 Created basic enemy prefab
 
 Implemented movement logic to follow waypoints
+
+
 ================================================================================================================
 Development Progress - June 20, 2025
 
