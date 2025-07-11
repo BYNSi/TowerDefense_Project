@@ -54,3 +54,15 @@ Designed the turret selection UI.
 Learned about Unity game development resources.
 
 Created the data class for turrets and set up the turret data.
+
+
+Development Progress – July 12, 2025
+======================================
+
+Tested turret selection
+
+Implemented cube click and turret building
+
+Added coin flicker animation
+
+Created build effect animation
