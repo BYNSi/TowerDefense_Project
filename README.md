@@ -56,7 +56,7 @@ Learned about Unity game development resources.
 Created the data class for turrets and set up the turret data.
 
 
-Development Progress – July 12, 2025
+Development Progress – July 11, 2025
 ======================================
 
 Tested turret selection
