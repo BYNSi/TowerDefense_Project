@@ -66,3 +66,20 @@ Implemented cube click and turret building
 Added coin flicker animation
 
 Created build effect animation
+
+Development Progress – July 15, 2025
+=====================================
+
+Detected enemies entering turret range
+
+Controlled turret shooting logic
+
+Implemented bullet flight behavior
+
+Handled bullet-enemy collision detection
+
+Managed enemy destruction and explosion effects
+
+Added turret rotation logic to face target
+
+
