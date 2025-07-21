@@ -82,4 +82,17 @@ Managed enemy destruction and explosion effects
 
 Added turret rotation logic to face target
 
+Development Progress – July 16-21, 2025
+=========================================
+Implemented selection highlight effect for cubes
+
+Added dynamic health bars to enemies with real-time updates
+
+Developed upgrade and construction UI with transition animations
+
+Enabled turret upgrading and dismantling via UI controls
+
+Created upgraded versions of all three turret types
+
+Integrated visual effects for each turret upgrade action
 
