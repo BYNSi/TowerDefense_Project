@@ -140,6 +140,15 @@ Describe what makes your project unique (e.g. turret upgrade UI animations, diff
 
 
 
+(4)Literature Review
+Chen, S. (2023). Tower Defense Game Design based on Unity3D. Frontiers in Computing and Intelligent Systems, 6(1), 85–94. https://doi.org/10.54097/fcis.v6i1.16
+
+Merry, A., Jose, S., & Appathurai, M. M. (2024). Intelligent automation of tower and resource allocation in Unity3D tower defense games. ResearchGate. https://www.researchgate.net/publication/381660267_Intelligent_Automation_of_Tower_and_Resource_Allocation_in_Unity3D_Tower_Defense_Games
+
+Norberg, L. (2023). Improving player experience using Flow in tower defense. (Master’s thesis, University of Skövde). DiVA Portal. https://www.diva-portal.org/smash/get/diva2%3A1772431/FULLTEXT01.pdf
+
+Lane, C. (2022, June 15). Tower defense architecture in Unity: Dynamic tower targeting. Medium.(This one is from a media article, and I think it's written okay)
+
 
 
 
