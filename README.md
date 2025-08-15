@@ -7,8 +7,6 @@ Created Unity project
 
 Configured Universal Render Pipeline (URP)
 
-Initialized Git repository
-
 Map Construction
 
 Created and placed map cube objects for terrain and layout
