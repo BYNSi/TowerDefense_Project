@@ -96,3 +96,51 @@ Created upgraded versions of all three turret types
 
 Integrated visual effects for each turret upgrade action
 
+
+Development Progress – july 22 -August 15, 2025
+========================================
+Think about QA section of thesis（Working on the enumerated sections）
+
+How to design and implement a scalable tower defense game architecture in Unity to quickly add new turrets and enemy types?
+
+How to efficiently implement turret firing range detection and enemy path management in a tower defense game to ensure performance and smoothness?
+
+How to utilize Unity's UI system and animations to enhance the interactive experience of a tower defense game?
+
+What is the impact of different turret upgrades and special effect designs on the player's game experience?
+
+How to design the difficulty curve to balance the playability and challenge of a tower defense game?
+
+Compared with existing tower defense games, what are the innovations in the turret upgrading mechanism and enemy diversity design of this project?
+
+How to combine visual feedback and dynamic UI to improve the efficiency of player operation in Unity project?
+
+
+
+Other parts of the paper
+
+(1)Introduction
+Background and popularity of tower defense games
+Benefits of Unity in Indie Game Development
+Motivation and goals of this project
+
+(2)Project Overview
+
+Game types and main gameplay
+Introduction of function modules (map system, enemy system, turret system, UI system, etc.)
+Overall development timeline(as listed above)
+
+
+(3)Related Work & Comparison
+
+List 1~2 existing tower defense games (e.g. Kingdom Rush, Plants vs Zombies)
+Compare gameplay, interface design, and functional features
+Describe what makes your project unique (e.g. turret upgrade UI animations, different turret types, dynamic health bars, etc.)
+
+
+
+
+
+
+
+
