@@ -147,6 +147,20 @@ Norberg, L. (2023). Improving player experience using Flow in tower defense. (Ma
 
 Lane, C. (2022, June 15). Tower defense architecture in Unity: Dynamic tower targeting. Medium.(This one is from a media article, and I think it's written okay)
 
+•	Avery, P., Togelius, J., Alistar, E., & van Leeuwen, R. P. (2011). Computational intelligence and tower defence games. 2011 IEEE Congress on Evolutionary Computation (CEC), 1084–1091. IEEE. https://doi.org/10.1109/CEC.2011.5949738
+•	Bergdahl, J., Norlander, P., & Johansson, T. (2024). A reinforcement learning and scripted AI hybrid for Plants vs. Zombies. arXiv preprint arXiv:2406.07980. https://arxiv.org/abs/2406.07980
+•	Cai, J., & Li, X. (2013). CrazyCartoon: An interactive augmented reality tower defense game. Advances in Computer Science Research, 24, 12–18. Atlantis Press. https://www.atlantis-press.com/php/download_paper.php?id=16693
+•	Chen, S. (2023). Tower defense game design based on Unity3D. Frontiers in Computing and Intelligent Systems, 6(1), 85–94. https://doi.org/10.54097/fcis.v6i1.16
+•	GameDev StackExchange. (2011). Best pathfinding algorithm for a tower defense game. Stack Exchange. https://gamedev.stackexchange.com/questions/12826/best-pathfinding-algorithm-for-a-tower-defense-game
+•	Lee, D., Tang, H., Zhang, J. O., Xu, H., Darrell, T., & Abbeel, P. (2018). Modular architecture for StarCraft II with deep reinforcement learning. arXiv preprint arXiv:1811.03555. https://arxiv.org/abs/1811.03555
+•	Lane, C. (2022, June 15). Tower defense architecture in Unity: Dynamic tower targeting. Medium. https://chandler-lane.medium.com/tower-defense-architecture-in-unity-dynamic-tower-targeting-cdcf79d404c9
+•	Norberg, L. (2023). Improving player experience using Flow in tower defense. (Master’s thesis, University of Skövde). DiVA Portal. https://www.diva-portal.org/smash/get/diva2%3A1772431/FULLTEXT01.pdf
+•	Red Blob Games. (2014). Flow field pathfinding for tower defense. Red Blob Games. https://www.redblobgames.com/pathfinding/tower-defense/
+•	Sun, X. (2025). InfecBlock: Investigating the effects of a tower-defense game to facilitate public health learning. Games for Health Journal. https://doi.org/10.1080/10447318.2024.2375694
+•	Sutoyo, R. (2015). Dynamic difficulty adjustment in tower defence. Procedia Computer Science, 72, 502–510. https://doi.org/10.1016/j.procs.2015.12.158
+•	Vogir, V. (2022, March 20). Demystifying tower defence game architecture: A practical guide. Medium. https://vvogir.medium.com/demystifying-tower-defence-game-architecture-a-practical-guide-65d10e48de4a
+•	Zhang, B. (2018). Exploring the attractive factors of mobile tower defense games. Proceedings of the 2018 International Conference on Education, Management and Social Science, 24, 178–182. Atlantis Press. https://www.atlantis-press.com/article/55908376.pdf
+
 
 
 
