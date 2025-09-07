@@ -95,25 +95,11 @@ Created upgraded versions of all three turret types
 Integrated visual effects for each turret upgrade action
 
 
-Development Progress – july 22 -August 15, 2025
+Development Progress
 ========================================
-Think about QA section of thesis（Working on the enumerated sections）
+RQ1: Under identical map and wave settings, how does Nearest versus Closest-to-Exit target selection affect leaks, completion time, win rate, and total damage?
 
-How to design and implement a scalable tower defense game architecture in Unity to quickly add new turrets and enemy types?
-
-How to efficiently implement turret firing range detection and enemy path management in a tower defense game to ensure performance and smoothness?
-
-How to utilize Unity's UI system and animations to enhance the interactive experience of a tower defense game?
-
-What is the impact of different turret upgrades and special effect designs on the player's game experience?
-
-How to design the difficulty curve to balance the playability and challenge of a tower defense game?
-
-Compared with existing tower defense games, what are the innovations in the turret upgrading mechanism and enemy diversity design of this project?
-
-How to combine visual feedback and dynamic UI to improve the efficiency of player operation in Unity project?
-
-
+RQ2: Under an equal budget, does an Upgrade-Focused plan (few towers, early upgrades) yield better stability and efficiency than a Spread-Focused plan (more level-1 towers, no early upgrades)?
 
 Other parts of the paper
 
@@ -135,33 +121,30 @@ List 1~2 existing tower defense games (e.g. Kingdom Rush, Plants vs Zombies)
 Compare gameplay, interface design, and functional features
 Describe what makes your project unique (e.g. turret upgrade UI animations, different turret types, dynamic health bars, etc.)
 
+（4）Methodology
+Controls: To isolate the variables, crucial conditions such as the map layout, enemy waves, path, starting currency, and buildable locations are held constant across all experimental runs.
 
+For RQ1: With a fixed tower placement plan, the game was run for multiple rounds using the Nearest and Closest-to-Exit targeting algorithms, respectively.
+For RQ2: With a fixed targeting algorithm, two build plans (Upgrade-Focused and Spread-Focused) were executed for multiple rounds. Both plans consumed the exact same total budget.
 
-
+Data Collection:
+  Win/Lose outcome
+  Number of Leaks  
+  Completion Time
+  Total Damage and Efficiency
+  
 (4)Literature Review
-Chen, S. (2023). Tower Defense Game Design based on Unity3D. Frontiers in Computing and Intelligent Systems, 6(1), 85–94. https://doi.org/10.54097/fcis.v6i1.16
-
-Merry, A., Jose, S., & Appathurai, M. M. (2024). Intelligent automation of tower and resource allocation in Unity3D tower defense games. ResearchGate. https://www.researchgate.net/publication/381660267_Intelligent_Automation_of_Tower_and_Resource_Allocation_in_Unity3D_Tower_Defense_Games
-
-Norberg, L. (2023). Improving player experience using Flow in tower defense. (Master’s thesis, University of Skövde). DiVA Portal. https://www.diva-portal.org/smash/get/diva2%3A1772431/FULLTEXT01.pdf
-
-Lane, C. (2022, June 15). Tower defense architecture in Unity: Dynamic tower targeting. Medium.(This one is from a media article, and I think it's written okay)
-
-•	Avery, P., Togelius, J., Alistar, E., & van Leeuwen, R. P. (2011). Computational intelligence and tower defence games. 2011 IEEE Congress on Evolutionary Computation (CEC), 1084–1091. IEEE. https://doi.org/10.1109/CEC.2011.5949738
-•	Bergdahl, J., Norlander, P., & Johansson, T. (2024). A reinforcement learning and scripted AI hybrid for Plants vs. Zombies. arXiv preprint arXiv:2406.07980. https://arxiv.org/abs/2406.07980
-•	Cai, J., & Li, X. (2013). CrazyCartoon: An interactive augmented reality tower defense game. Advances in Computer Science Research, 24, 12–18. Atlantis Press. https://www.atlantis-press.com/php/download_paper.php?id=16693
-•	Chen, S. (2023). Tower defense game design based on Unity3D. Frontiers in Computing and Intelligent Systems, 6(1), 85–94. https://doi.org/10.54097/fcis.v6i1.16
-•	GameDev StackExchange. (2011). Best pathfinding algorithm for a tower defense game. Stack Exchange. https://gamedev.stackexchange.com/questions/12826/best-pathfinding-algorithm-for-a-tower-defense-game
-•	Lee, D., Tang, H., Zhang, J. O., Xu, H., Darrell, T., & Abbeel, P. (2018). Modular architecture for StarCraft II with deep reinforcement learning. arXiv preprint arXiv:1811.03555. https://arxiv.org/abs/1811.03555
-•	Lane, C. (2022, June 15). Tower defense architecture in Unity: Dynamic tower targeting. Medium. https://chandler-lane.medium.com/tower-defense-architecture-in-unity-dynamic-tower-targeting-cdcf79d404c9
-•	Norberg, L. (2023). Improving player experience using Flow in tower defense. (Master’s thesis, University of Skövde). DiVA Portal. https://www.diva-portal.org/smash/get/diva2%3A1772431/FULLTEXT01.pdf
-•	Red Blob Games. (2014). Flow field pathfinding for tower defense. Red Blob Games. https://www.redblobgames.com/pathfinding/tower-defense/
-•	Sun, X. (2025). InfecBlock: Investigating the effects of a tower-defense game to facilitate public health learning. Games for Health Journal. https://doi.org/10.1080/10447318.2024.2375694
-•	Sutoyo, R. (2015). Dynamic difficulty adjustment in tower defence. Procedia Computer Science, 72, 502–510. https://doi.org/10.1016/j.procs.2015.12.158
-•	Vogir, V. (2022, March 20). Demystifying tower defence game architecture: A practical guide. Medium. https://vvogir.medium.com/demystifying-tower-defence-game-architecture-a-practical-guide-65d10e48de4a
-•	Zhang, B. (2018). Exploring the attractive factors of mobile tower defense games. Proceedings of the 2018 International Conference on Education, Management and Social Science, 24, 178–182. Atlantis Press. https://www.atlantis-press.com/article/55908376.pdf
 
 
+Mizutani, W. K., Daros, V. K., & Kon, F. (2021). Software architecture for digital game mechanics: A systematic literature review. Entertainment Computing, 38, 100421. https://doi.org/10.1016/j.entcom.2021.100421
 
+Chueca, J., Verón, J., Font, J., Pérez, F., & Cetina, C. (2023). The consolidation of game software engineering: A systematic literature review of software engineering for industry-scale computer games. Information and Software Technology, 165, 107330. https://doi.org/10.1016/j.infsof.2023.107330
 
+Shacklett, B., Rosenzweig, L. G., Xie, Z., Sarkar, B., Szot, A., Wijmans, E., Koltun, V., Batra, D., & Fatahalian, K. (2023). An extensible, Data-Oriented architecture for High-Performance, Many-World simulation. ACM Transactions on Graphics, 42(4), 1–13. https://doi.org/10.1145/3592427
 
+Goldstein, R., Walmsley, K., Bibliowicz, J., Tessier, A., Breslav, S., & Khan, A. (2022). Path counting for Grid-Based navigation. Journal of Artificial Intelligence Research, 74, 917–955. https://doi.org/10.1613/jair.1.13544
+Hu, Y., et al. (2022). Multi-agent path finding with Temporal Jump Point Search. Proceedings of ICAPS.
+
+Öhman, J. (2020). Procedural generation of tower defense levels. Retrieved from https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1442180&dswid=-8232
+
+A NEAT approach to wave generation in tower defense games. (n.d.). Retrieved from https://ieeexplore.ieee.org/abstract/document/9929595
