@@ -147,4 +147,4 @@ Hu, Y., et al. (2022). Multi-agent path finding with Temporal Jump Point Search.
 
 Öhman, J. (2020). Procedural generation of tower defense levels. Retrieved from https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1442180&dswid=-8232
 
-A NEAT approach to wave generation in tower defense games. (n.d.). Retrieved from https://ieeexplore.ieee.org/abstract/document/9929595
+D. Hind and C. Harvey, "A NEAT Approach to Wave Generation in Tower Defense Games," 2022 International Conference on Interactive Media, Smart Systems and Emerging Technologies (IMET), Limassol, Cyprus, 2022, pp. 1-8, doi: 10.1109/IMET54801.2022.9929595.
