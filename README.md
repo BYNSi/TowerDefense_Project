@@ -99,7 +99,7 @@ Development Progress
 ========================================
 RQ1: Under identical map and wave settings, how does Nearest versus Closest-to-Exit target selection affect leaks, completion time, win rate, and total damage?
 
-RQ2: Under an equal budget, does an Upgrade-Focused plan (few towers, early upgrades) yield better stability and efficiency than a Spread-Focused plan (more level-1 towers, no early upgrades)?
+RQ2: does an Upgrade-Focused plan (few towers, early upgrades) yield better stability and efficiency than a Spread-Focused plan (more level-1 towers, no early upgrades)?
 
 Other parts of the paper
 
