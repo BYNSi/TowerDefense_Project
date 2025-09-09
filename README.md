@@ -148,3 +148,30 @@ Hu, Y., et al. (2022). Multi-agent path finding with Temporal Jump Point Search.
 Öhman, J. (2020). Procedural generation of tower defense levels. Retrieved from https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1442180&dswid=-8232
 
 D. Hind and C. Harvey, "A NEAT Approach to Wave Generation in Tower Defense Games," 2022 International Conference on Interactive Media, Smart Systems and Emerging Technologies (IMET), Limassol, Cyprus, 2022, pp. 1-8, doi: 10.1109/IMET54801.2022.9929595.
+
+Avery, P., Togelius, J., Alistar, E., & van Leeuwen, R. P. (2011). Computational intelligence and tower defence games. 2011 IEEE Congress on Evolutionary Computation (CEC) (pp. 1084–1091). IEEE. https://doi.org/10.1109/CEC.2011.5949738
+
+Beau, P., & Bakkes, S. (2016). Automated game balancing of asymmetric video games. 2016 IEEE Conference on Computational Intelligence and Games (CIG) (pp. 1–8). IEEE. https://doi.org/10.1109/CIG.2016.7860432
+
+Bergdahl, J., Sestini, A., & Gisslén, L. (2024). Reinforcement learning for high-level strategic control in tower defense games. 2024 IEEE Conference on Games (CoG) (pp. 1–8). IEEE. https://doi.org/10.1109/CoG60054.2024.10645621
+Carette, J. (2017). Implementing a family of tower defense games (Master’s thesis). McMaster University. https://macsphere.mcmaster.ca/handle/11375/19763
+
+Chueca, J., Verón, J., Font, J., Pérez, F., & Cetina, C. (2023). The consolidation of game software engineering: A systematic literature review of software engineering for industry-scale computer games. Information and Software Technology, 165, 107330. https://doi.org/10.1016/j.infsof.2023.107330
+
+Dias, D. M. P. L., Sousa, J. P. P., Barroso, B. C. V. B., & Magalhaes, I. M. B. (2022). A novel procedural content generation algorithm for tower defense games. ICACS ’22: Proceedings of the 6th International Conference on Algorithms, Computing and Systems, Article 9, 1–7. ACM. https://doi.org/10.1145/3564982.3564993
+
+Goldstein, R., Walmsley, K., Bibliowicz, J., Tessier, A., Breslav, S., & Khan, A. (2022). Path counting for grid-based navigation. Journal of Artificial Intelligence Research, 74, 917–955. https://doi.org/10.1613/jair.1.13544
+
+Hind, D., & Harvey, C. (2022). A NEAT approach to wave generation in tower defense games. 2022 International Conference on Interactive Media, Smart Systems and Emerging Technologies (IMET) (pp. 1–8). IEEE. https://doi.org/10.1109/IMET54801.2022.9929595
+
+Hu, Y., Li, J., Felner, A., Cohen, L., Ma, H., Kumar, T. K. S., Koenig, S., & Sharon, G. (2022). Multi-agent path finding with Temporal Jump Point Search. Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS 2022). (Preprint available at https://arxiv.org/abs/2204.09235)
+
+Huo, P., Shiu, S. C. K., Wang, H., & Niu, B. (2009). Application and comparison of particle swarm optimization and genetic algorithm in strategy defense game. 2009 Fifth International Conference on Natural Computation (ICNC) (pp. 387–392). IEEE. https://doi.org/10.1109/ICNC.2009.552
+
+Kumala, G. T., & Istiono, W. (2022). Comparison of Flow Field and A-Star algorithm for pathfinding in tower defense game. International Journal of Multidisciplinary Research and Analysis, 5(9), 2445–2453. https://doi.org/10.47191/ijmra/v5-i9-20
+Öhman, J. (2020). Procedural generation of tower defense levels (Master’s thesis). Blekinge Institute of Technology. https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1442180
+
+Shacklett, B., Rosenzweig, L. G., Xie, Z., Sarkar, B., Szot, A., Wijmans, E., Koltun, V., Batra, D., & Fatahalian, K. (2023). An extensible, data-oriented architecture for high-performance, many-world simulation. ACM Transactions on Graphics, 42(4), 1–13. https://doi.org/10.1145/3592427
+
+Sutoyo, R., Winata, D., Oliviani, K., & Supriyadi, D. M. (2015). Dynamic difficulty adjustment in tower defence. Procedia Computer Science, 59, 435–444. https://doi.org/10.1016/j.procs.2015.07.563
+Tan, T. G., Yong, Y. N., Chin, K. O., Teo, J., & Alfred, R. (2013). Automated evaluation for AI controllers in tower defense game using genetic algorithm. In Communications in Computer and Information Science (pp. 135–146). Springer. https://doi.org/10.1007/978-3-642-40567-9_12
