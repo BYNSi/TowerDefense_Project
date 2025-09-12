@@ -117,7 +117,7 @@ Overall development timeline(as listed above)
 
 (3)Related Work & Comparison
 
-List 1~2 existing tower defense games (e.g. Kingdom Rush, Plants vs Zombies)
+List 1~2 existing tower defense games 
 Compare gameplay, interface design, and functional features
 Describe what makes your project unique (e.g. turret upgrade UI animations, different turret types, dynamic health bars, etc.)
 
