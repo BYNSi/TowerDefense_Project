@@ -94,6 +94,23 @@ Created upgraded versions of all three turret types
 
 Integrated visual effects for each turret upgrade action
 
+Development Progress – July 25-30, 2025
+=============================================
+Replay and menu buttons
+Developing Menu Scenarios
+
+
+Development Progress –August 1-10, 2025
+=====================================
+RQ1: Under identical map and wave settings, how does Nearest versus Closest-to-Exit target selection affect leaks, completion time, win rate, and total damage?
+Develop RQ1 related content, write result recording function，and experiment with it.
+
+Development Progress –August 11-20, 2025
+=====================================
+RQ2:does an Upgrade-Focused plan (few towers, early upgrades) yield better stability and efficiency than a Spread-Focused plan (more level-1 towers, no early upgrades)?
+Develop procedures related to RQ2 questions,and experiment with it.
+
+
 
 Development Progress
 ========================================
